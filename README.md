@@ -455,3 +455,7 @@ the [Apache 2.0 License](LICENSE).
 
 The CogVideoX-5B model (Transformers module, include I2V and T2V) is released under
 the [CogVideoX LICENSE](https://huggingface.co/THUDM/CogVideoX-5b/blob/main/LICENSE).
+
+## Shout-out to our friends
+
+<a href="https://magicshorts.ai" target="_blank"><img  width="54px" src="https://magicshorts.ai/logo.png" alt="MagicShorts AI Logo" /></a> [magicshorts.ai](https://magicshorts.ai) 
