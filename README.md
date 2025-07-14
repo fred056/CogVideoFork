@@ -1,4 +1,5 @@
-# CogVideo & CogVideoX
+# CogVideo & CogVideoX Fork
+<h1><a href="https://github.com/fred056/CogVideoFork" target="_blank"></a> https://github.com/fred056/CogVideoFork</h1>
 
 [中文阅读](./README_zh.md)
 
